@@ -7,5 +7,4 @@ published: true
 
 Enthusiatic to work for Open-source projects.
 
-### You can [invite](mailto:live.namish@live.in) me for beer!
-
+### You can make me an [offer](mailto:live.namish@live.in) for beer! I will never refuse
