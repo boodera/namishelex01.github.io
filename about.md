@@ -2,14 +2,13 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
-
-Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Enthusiatic to work for Open-source projects.
 
-### Contact me
+### You can contact me on
 
-[email@domain.com](mailto:email@domain.com)
+[Namish](mailto:live.namish@live.in)
