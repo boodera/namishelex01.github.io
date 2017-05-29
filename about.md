@@ -5,10 +5,7 @@ permalink: /about/
 published: true
 ---
 
-### More Information
-
 Enthusiatic to work for Open-source projects.
 
-### You can contact me on
+### You can [invite](mailto:live.namish@live.in) me for beer!
 
-[Namish](mailto:live.namish@live.in)
