@@ -4,8 +4,17 @@ title: I'm AWAKE!
 published: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+This guy is gaining experience in multiple fields.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+- Risk Assessment and Management
+- Cloud Security and Administration
+- ISO 27001 Standard Implementation
+- Web Application Security Assessment
+- Mobile Application Security Assessment
+- Network Security Assessment
+- API Testing (REST Web Service)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Also has interest in :
+
+- Playing Pool, Football and Virtual Games
+- Work in open-source projects
