@@ -6,15 +6,16 @@ published: true
 
 This guy is gaining experience in multiple fields.
 
-- Risk Assessment and Management
-- Cloud Security and Administration
-- ISO 27001 Standard Implementation
-- Web Application Security Assessment
-- Mobile Application Security Assessment
-- Network Security Assessment
-- API Testing (REST Web Service)
+####- __Risk Assessment and Management__
+####- __Cloud Security and Administration__
+####- __ISO 27001 Standard Implementation__
+####- __Web Application Security Assessment__
+####- __Mobile Application Security Assessment__
+####- __Network Security Assessment__
+####- __API Testing (REST Web Service)__
+
 
 Also has interest in :
 
-- Playing Pool, Football and Virtual Games
-- Work in open-source projects
+####- __Playing Pool, Football and Virtual Games__
+####- __Work in open-source projects__
